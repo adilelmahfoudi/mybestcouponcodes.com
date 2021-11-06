@@ -1,0 +1,2747 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="noindex, follow" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coupons, Promo Codes & Daily Deals | MyBestCouponCodes.com</title>
+<meta name="description" content="Here you will find a list of coupon codes, vouchers, special offers and promo deals for thousands of stores. New coupons and deals are added every day so you can..." />
+<meta name="keywords" content="coupon codes, deals, special offers, discount codes, vouchers">
+<meta property="og:site_name" content="MyBestCouponCodes.com" />
+<meta property="og:title" content="Coupons, Promo Codes & Daily Deals | MyBestCouponCodes.com" />
+<meta property="og:description" content="Here you will find a list of coupon codes, vouchers, special offers and promo deals for thousands of stores. New coupons and deals are added every day so you can..." />
+<!--[if lt IE 9]><script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link rel="shortcut icon" href="#" title="Favicon" />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600italic,600,700,700italic' rel='stylesheet' type='text/css'>
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,300italic,400italic,600italic,600,700,700italic" rel="stylesheet">
+<link rel="stylesheet" href="/templates/trendy/assets/css/semantic.min.css">
+<link rel="stylesheet" href="/templates/trendy/assets/css/style.css">
+<script>
+        var baseurl = 'https://couponsah.netlify.app';
+        var templatepath = '/templates/trendy';
+        var click_route = 'click';
+        var user_route = 'user';
+        var coupon_route = 'coupon';
+        var deal_route = 'deal';
+        var menu = 'search';
+        var pop_style = '';
+        
+                    var user_id = 0;
+        
+                    
+            var lang_js = {};
+            
+                            lang_js['open_offer'] = "Open offer";
+                            lang_js['copy_and_open'] = "Copy & Open";
+                            lang_js['copy'] = "Copy";
+                            lang_js['all_fields_are_required'] = "All fields are required";
+                            lang_js['password_updated_message'] = "Your password is now updated. <a href=\"javascript:void(0);\" onclick=\"login();\">Click here</a> to login to your account<br /><br />";
+                            lang_js['please_enter_email'] = "Please enter your email address";
+                            lang_js['cant_find_email'] = "Can't find this email address in the database";
+                            lang_js['password_reset_email_sent'] = "An email with instructions on how to reset your password has been sent to the specified address";
+                            lang_js['login'] = "Login";
+                            lang_js['logging_in'] = "Logging in...";
+                            lang_js['register'] = "Register";
+                            lang_js['registering'] = "Registering...";
+                            lang_js['connect_with_twitter'] = "Connect with <strong>Twitter</strong>";
+                            lang_js['connect_with_facebook'] = "Connect with <strong>Facebook</strong>";
+                            lang_js['unexpected_error'] = "Unexpected error occured. Please try reloading this page";
+                            lang_js['invalid_email'] = "Please provide a valid email address";
+                            lang_js['subscribe_thanks'] = "Thank you for subscribing! An email confirmation should arrive to your inbox shortly.";
+                            lang_js['unsubscribe_message'] = "You will be no longer getting updates from this store.";
+                            lang_js['subscribe'] = "Subscribe";
+                            lang_js['unsubscribe'] = "Unsubscribe";
+                            lang_js['favorite'] = "Add to favorites";
+                            lang_js['favorite_it'] = "Favorite It";
+                            lang_js['your_favorite'] = "Your Favorite";
+                            lang_js['unfavorite'] = "Unfavorite";
+                            lang_js['profile_updated'] = "Your profile has been updated successfully";
+                            lang_js['vote'] = "vote";
+                            lang_js['votes'] = "votes";
+                            lang_js['success'] = "Success";
+                            lang_js['SUCCESS'] = "SUCCESS";
+                        </script>
+<style>
+        
+            body {
+                background: url('/templates/trendy/img/backgrounds/cream_dust.png') !important;
+            }
+            .primary-header {
+                background: #2c3e50 !important;
+            }
+            .highlight-icon {
+                color: #ffffff !important;
+            }
+            .highlight-text {
+                color: #ffffff !important;
+            }
+            .logo-text {
+                color: #ffffff !important;
+            }
+            #header-search .header-search-submit {
+                background: #fb8b24 !important;
+            }
+            .header-search-submit {
+                background: #fb8b24 !important;
+            }
+            .newsletter-box-wrapper.shadow-box .input .ui.button {
+                background: #fb8b24 !important;
+            }
+            .site-footer .newsletter-box-wrapper .input .ui.button {
+                background: #fb8b24 !important;
+            }
+            .site-footer .footer-social a {
+                background: #fb8b24 !important;
+                color: #ffffff !important;
+            }
+            .coupon-code {
+                background: url('/templates/trendy/img/backgrounds/cream_dust.png') !important;
+            }
+            .coupon-deal {
+                background: #9a031e !important;
+                color: #fff !important;
+            }
+            .get-code {
+                background: #9a031e !important;
+                color: #fff !important;
+            }
+            .get-code:after {
+                border-left: #9a031e !important;
+            }
+            #header-search .header-search-submit {
+                background: #9a031e !important;
+            }
+            #subscribe_store {
+                background: #9a031e !important;
+            }
+            #subscribe_mailchimp  {
+                background: #9a031e !important;
+            }
+            a {
+                color: #004e64 !important;
+            }
+            .share_button {
+                color: #ffffff !important;
+            }
+        
+    </style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="/templates/trendy/assets/js/bootstrap.js"></script>
+<script src="/templates/trendy/assets/js/ajaxupload.js"></script>
+<script src="/templates/trendy/assets/js/bootstrap-datepicker.js"></script>
+<script src="/templates/trendy/assets/js/clipboard.min.js"></script>
+<script src="/templates/trendy/assets/js/jquery.ui.autocomplete.js"></script>
+<script src="/templates/trendy/assets/js/jquery.zclip.js"></script>
+<script src="/templates/trendy/assets/js/jquery-ui-datepicker.min.js"></script>
+<link rel="stylesheet" href="/templates/trendy/assets/css/jquery-ui-datepicker.min.css">
+<link href="/templates/trendy/assets/css/apollo.css" rel="stylesheet">
+<link rel="stylesheet" href="/templates/trendy/assets/css/jquery.ui.autocomplete.css">
+</head>
+<body>
+<div id="app">
+<div class="ui left vertical labeled icon sidebar menu">
+<style>
+                        .hoverbold:hover {
+                            font-weight:bold;
+                        }                    
+                        .ui.icon.menu .item {
+                            height: auto;
+                            text-align: left !important;
+                            color: #1b1c1d;
+                        }                            
+                    </style>
+<div class="ui vertical menu" style="margin: 0em -.5em !important;">
+<div class="ui item" style="font-size: 13px; font-weight: 600; letter-spacing: 0.2px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<div class="header" style="cursor: pointer;" onclick="$('#browse_coupons_menu').toggle();"><i class="dropdown icon" style="padding-right: 5px;"></i>BROWSE COUPONS</div>
+<div class="menu" id="browse_coupons_menu" style="display:none;">
+<div class="item"><a href="/category" rel="nofollow">Browse by Categories</a></div>
+<div class="item"><a href="/stores" rel="nofollow">Browse by Stores</a></div>
+<div class="item"><a href="/search?search_query=free+shipping" rel="nofollow"># Free Shipping</a></div>
+<div class="item"><a href="/search?search_query=deals" rel="nofollow"># Product Deals</a></div>
+<div class="item"><a href="/search?search_query=coupons" rel="nofollow"># Product Coupons</a></div>
+</div>
+</div>
+<div class="ui item" style="font-size: 13px; font-weight: 600; letter-spacing: 0.2px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<div class="header" style="cursor: pointer;" onclick="$('#stores_menu').toggle();"><i class="dropdown icon" style="padding-right: 5px;"></i>TOP STORES</div>
+<div class="menu" id="stores_menu" style="display:none;">
+<a class="hoverbold" href="/stores" style="padding: 10px 0px 10px 15px; display: block">All Stores</a>
+<hr style="margin-bottom: 0px !important;">
+<ul class="item" style="list-style-type: none;box-shadow: none; background: #FFFFFF; padding-bottom: 0; border-top: 1px solid #e9e9e;">
+</ul>
+</div>
+</div>
+<div class="ui item" style="font-size: 13px; font-weight: 600; letter-spacing: 0.2px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<div class="header" style="cursor: pointer;" onclick="$('#categories_menu').toggle();"><i class="dropdown icon" style="padding-right: 5px;"></i>CATEGORIES</div>
+<div class="menu" id="categories_menu" style="display:none;">
+<ul class="item" style="list-style-type: none;box-shadow: none; background: #FFFFFF; padding-bottom: 0; border-top: 1px solid #e9e9e;">
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/clothing-accessories">Clothing & Accessories</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/home-garden">Home & Garden</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/gifts-books-music-movies">Gifts, Books, Music & Movies</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/office">Office</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/grocery-health-beauty">Grocery, Health & Beauty</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/food-restaurants">Food & Restaurants</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/toys-games-kids">Toys, Games & Kids</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/travel">Travel</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/electronics">Electronics</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="pusher">
+<div id="page" class="hfeed site">
+<header id="masthead" class="ui page site-header" style="margin-bottom: 20px;">
+<div class="primary-header">
+<div class="container">
+<div class="logo_area fleft">
+<a href="/" rel="home">
+<font color="white" class="logo-text"><b>MyBestCouponCodes.com</b></font>
+</a>
+</div>
+<div class="header_left fleft">
+<form id="header-search" action="/search">
+<div class="header-search-input ui search large action left icon input">
+<input class="prompt" id="search_query" name="search_query" placeholder="Free Shipping" type="text">
+<i class="search icon"></i>
+<div class="header-search-submit ui button" onclick="$(this).closest('form').submit()">Search</div>
+</div>
+<div class="clear"></div>
+</form>
+</div>
+<div class="header-highlight fright">
+<a href="/search?search_query=free+shipping" rel="nofollow">
+<div class="highlight-icon"><i class="shop icon"></i></div>
+<div class="highlight-text"># Free Shipping</div>
+</a>
+<a href="/search?search_query=coupons" rel="nofollow">
+<div class="highlight-icon"><i class="dollar icon"></i></div>
+<div class="highlight-text">Coupons</div>
+</a>
+<a href="/search?search_query=deals" rel="nofollow">
+<div class="highlight-icon"><i class="thumbs up icon"></i></div>
+<div class="highlight-text">Deals</div>
+</a>
+</div>
+</div>
+</div>
+<div class="site-navigation">
+<div class="container">
+<div class="ui text menu" style="margin: 0em -.5em !important; height: 50px;">
+<div class="item" onclick="toggleSidebar()" style="color: #004e64 !important; cursor: pointer; font-size: 20px; font-weight: 600; letter-spacing: 0.2px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;">
+<i class="content icon"></i>
+</div>
+<div class="ui item hide_mobile" style="font-size: 14px; font-weight: 600; letter-spacing: 0.4px; padding: 10px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<a class="hoverbold" href="/">HOME</a>
+</div>
+<div class="ui item" style="font-size: 14px; font-weight: 600; letter-spacing: 0.4px; padding: 10px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<a class="hoverbold" href="/category">CATEGORIES</a>
+</div>
+<div class="ui item" style="font-size: 14px; font-weight: 600; letter-spacing: 0.4px; padding: 10px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<a class="hoverbold" href="/stores">STORES</a>
+</div>
+<div class="ui item" style="font-size: 14px; font-weight: 600; letter-spacing: 0.4px; padding: 10px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<a class="hoverbold" href="/blog">BLOG</a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="content" class="site-content">
+<section class="custom-page-header">
+<div class="container">
+<div class="ui small breadcrumb">
+<a class="section" href="/">Home</a>
+<i class="right angle right icon divider"></i>
+<div class="active section">Search</div>
+</div>
+</div>
+</section>
+<div id="content-wrap" class="container right-sidebar">
+<div id="primary" class="content-area">
+<main id="main" class="site-main">
+<section id="store-listings-wrapper" class="wpb_content_element">
+<h2 class="section-heading">The Latest <strong>Free Shipping </strong>Coupon Codes & Deals</h2>
+<div class="store-listings">
+<a name="coupon105735"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $72 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $72 with Coupon at Massgenie</h3>
+
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Citizen Paradigm Blue Dial Stainless Steel only $72.00 (was <span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">$250.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105735" id="code-link_105735" rel="nofollow">
+<span class="code-text" id="code-text_105735">PBDSS</span>
+<span class="get-code" id="get-code_105735">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105735" id="code-div_105735" style="display:none;">
+<span class="code-text" id="code-text_105735">PBDSS</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105735,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105735,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105735">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%37%32%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105735">
+<input placeholder="Email address ..." type="text" id="email_to_105735">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105735);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105735">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105735">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105735">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105735" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105735" code="CITIPBDSS" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $72 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">CITIPBDSS</span>
+<button id="coupon-copy-button" data-clipboard-text="CITIPBDSS" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+ <div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105735,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105735,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105735" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105735" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Citizen Paradigm Blue Dial Stainless Steel only $72.00 (was $250.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 4 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105734"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $76 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $76 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Citizen Chandler Stainless Steel Womens Watch only $76.00 (w<span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">as $250.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105734" id="code-link_105734" rel="nofollow">
+<span class="code-text" id="code-text_105734">CSSWW</span>
+<span class="get-code" id="get-code_105734">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105734" id="code-div_105734" style="display:none;">
+<span class="code-text" id="code-text_105734">CSSWW</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105734,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105734,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105734">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%37%36%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105734">
+<input placeholder="Email address ..." type="text" id="email_to_105734">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105734);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105734">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105734">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105734">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105734" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105734" code="CITICSSWW" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $76 with Coupon at Massgenie</div>
+ <span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">CITICSSWW</span>
+<button id="coupon-copy-button" data-clipboard-text="CITICSSWW" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105734,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105734,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105734" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105734" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Citizen Chandler Stainless Steel Womens Watch only $76.00 (was $250.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 4 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105732"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $72 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $72 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Marc By Marc Jacobs Fergus Blue Chronograph Dial Camel Leath<span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">er Strap Mens Watch only $72.00 (was $225.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105732" id="code-link_105732" rel="nofollow">
+<span class="code-text" id="code-text_105732">ERGUS</span>
+<span class="get-code" id="get-code_105732">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105732" id="code-div_105732" style="display:none;">
+<span class="code-text" id="code-text_105732">ERGUS</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105732,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105732,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105732">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%37%32%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105732">
+<input placeholder="Email address ..." type="text" id="email_to_105732">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105732);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105732">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105732">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105732">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105732" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+ 
+<div id="105732" code="MARCFERGUS" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $72 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">MARCFERGUS</span>
+<button id="coupon-copy-button" data-clipboard-text="MARCFERGUS" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105732,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105732,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105732" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105732" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Marc By Marc Jacobs Fergus Blue Chronograph Dial Camel Leather Strap Mens Watch only $72.00 (was $225.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 4 days
+ </p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105730"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $296.10 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-05}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $296.10 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 3 days
+</span>
+</div>
+<div class="coupon-des">
+Samsung Galaxy Watch (46mm) Silver (Bluetooth) only $296.10 <span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">(was $349.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105730" id="code-link_105730" rel="nofollow">
+<span class="code-text" id="code-text_105730">GGW46</span>
+<span class="get-code" id="get-code_105730">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105730" id="code-div_105730" style="display:none;">
+<span class="code-text" id="code-text_105730">GGW46</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105730,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105730,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105730">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+ <i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%32%39%36%2e%31%30%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105730">
+<input placeholder="Email address ..." type="text" id="email_to_105730">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105730);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105730">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105730">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105730">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+ <h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105730" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105730" code="SMSNGGW46" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $296.10 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">SMSNGGW46</span>
+<button id="coupon-copy-button" data-clipboard-text="SMSNGGW46" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105730,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105730,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105730" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105730" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Samsung Galaxy Watch (46mm) Silver (Bluetooth) only $296.10 (was $349.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 3 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105729"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Apply & Save Up To 12% Off at Ink Edibles",
+                                                                        "url": "https://couponsah.netlify.app/ink-edibles",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-31}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Ink Edibles",
+                                      "url": "http://inkedibles.com",
+                                      "address": "Ink Edibles"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/ink-edibles">
+<img itemprop="image" src="/thumbs/stores/store_918.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Apply & Save Up To 12% Off at Ink Edibles</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 weeks
+</span>
+</div>
+<div class="coupon-des">
+12% Off + FREE SHIPPING on orders over $150 (excludes CakePr<span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">o series printers)<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105729" id="code-link_105729" rel="nofollow">
+<span class="code-text" id="code-text_105729">ble12</span>
+<span class="get-code" id="get-code_105729">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105729" id="code-div_105729" style="display:none;">
+<span class="code-text" id="code-text_105729">ble12</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105729,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105729,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105729">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+ <div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%41%70%70%6c%79%20%26%20%53%61%76%65%20%55%70%20%54%6f%20%31%32%25%20%4f%66%66%20%61%74%20%49%6e%6b%20%45%64%69%62%6c%65%73%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105729">
+<input placeholder="Email address ..." type="text" id="email_to_105729">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105729);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105729">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105729">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105729">
+ <div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105729" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105729" code="edible12" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_918.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Apply & Save Up To 12% Off at Ink Edibles</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">edible12</span>
+<button id="coupon-copy-button" data-clipboard-text="edible12" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105729,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105729,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105729" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105729" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>12% Off + FREE SHIPPING on orders over $150 (excludes CakePro series printers)<p>
+<p>
+Expires in 4 weeks
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105727"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $157 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $157 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+ Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Citizen Paladion Mother of Pearl Diamond Dial Womens Watch o<span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">nly $157.00 (was $495.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105727" id="code-link_105727" rel="nofollow">
+<span class="code-text" id="code-text_105727">PDDWW</span>
+<span class="get-code" id="get-code_105727">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105727" id="code-div_105727" style="display:none;">
+<span class="code-text" id="code-text_105727">PDDWW</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105727,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105727,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105727">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%31%35%37%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105727">
+<input placeholder="Email address ..." type="text" id="email_to_105727">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105727);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105727">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105727">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105727">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105727" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105727" code="CITIPMPDDWW" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $157 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">CITIPMPDDWW</span>
+<button id="coupon-copy-button" data-clipboard-text="CITIPMPDDWW" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105727,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105727,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105727" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105727" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Citizen Paladion Mother of Pearl Diamond Dial Womens Watch only $157.00 (was $495.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 4 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105726"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $89 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+ </a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $89 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Citizen Paradex Stainless Steel Mens Watch only $89.00 (was <span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">$295.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105726" id="code-link_105726" rel="nofollow">
+<span class="code-text" id="code-text_105726">PSSMW</span>
+<span class="get-code" id="get-code_105726">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105726" id="code-div_105726" style="display:none;">
+<span class="code-text" id="code-text_105726">PSSMW</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105726,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105726,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105726">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+ 
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%38%39%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+ </div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105726">
+<input placeholder="Email address ..." type="text" id="email_to_105726">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105726);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105726">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105726">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105726">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105726" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105726" code="CITIPSSMW" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $89 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">CITIPSSMW</span>
+<button id="coupon-copy-button" data-clipboard-text="CITIPSSMW" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105726,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105726,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105726" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105726" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Citizen Paradex Stainless Steel Mens Watch only $89.00 (was $295.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 4 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105721"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $132 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $132 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Michael Kors Womens Watch only $132.00 (was $295.00) with Fr<span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">ee Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105721" id="code-link_105721" rel="nofollow">
+<span class="code-text" id="code-text_105721">842WW</span>
+<span class="get-code" id="get-code_105721">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105721" id="code-div_105721" style="display:none;">
+<span class="code-text" id="code-text_105721">842WW</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105721,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105721,-1);"><i class="frown icon"></i></div>
+
+</div>
+<span class="voted-value" id="vote_box_105721">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%31%33%32%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105721">
+<input placeholder="Email address ..." type="text" id="email_to_105721">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105721);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105721">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105721">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105721">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105721" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105721" code="MK5842WW" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $132 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">MK5842WW</span>
+<button id="coupon-copy-button" data-clipboard-text="MK5842WW" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105721,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105721,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105721" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105721" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Michael Kors Womens Watch only $132.00 (was $295.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 4 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105720"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $269.99 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $269.99 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Nintendo Switch Console with Gray Joy-Con Wireless Controlle<span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">rs only $269.99 (was $479.95) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105720" id="code-link_105720" rel="nofollow">
+<span class="code-text" id="code-text_105720">OYCON</span>
+<span class="get-code" id="get-code_105720">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105720" id="code-div_105720" style="display:none;">
+<span class="code-text" id="code-text_105720">OYCON</span>
+</div>
+
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105720,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105720,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105720">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%32%36%39%2e%39%39%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105720">
+<input placeholder="Email address ..." type="text" id="email_to_105720">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105720);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105720">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105720">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105720">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105720" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105720" code="NSWLJOYCON" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $269.99 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">NSWLJOYCON</span>
+<button id="coupon-copy-button" data-clipboard-text="NSWLJOYCON" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105720,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105720,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105720" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105720" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Nintendo Switch Console with Gray Joy-Con Wireless Controllers only $269.99 (was $479.95) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 4 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105719"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $76 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $76 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Citizen Drive LTR Gold Tone Mesh Womens Watch only $76.00 (w<span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">as $250.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105719" id="code-link_105719" rel="nofollow">
+<span class="code-text" id="code-text_105719">GTMWW</span>
+<span class="get-code" id="get-code_105719">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105719" id="code-div_105719" style="display:none;">
+<span class="code-text" id="code-text_105719">GTMWW</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105719,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105719,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105719">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%37%36%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105719">
+<input placeholder="Email address ..." type="text" id="email_to_105719">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105719);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105719">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105719">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105719">
+<div class="clearfix"></div>
+
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105719" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105719" code="CITIDLTRGTMWW" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $76 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">CITIDLTRGTMWW</span>
+<button id="coupon-copy-button" data-clipboard-text="CITIDLTRGTMWW" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105719,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105719,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105719" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+
+<a href="/go.php?coupon_id=105719" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Citizen Drive LTR Gold Tone Mesh Womens Watch only $76.00 (was $250.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 4 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105717"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $33.99 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $33.99 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+ Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Bearpaw Mens Moc Ii Ankle-High Suede Slipper only $33.99 (wa<span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">s $53.99) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105717" id="code-link_105717" rel="nofollow">
+<span class="code-text" id="code-text_105717">ARMOC</span>
+<span class="get-code" id="get-code_105717">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105717" id="code-div_105717" style="display:none;">
+<span class="code-text" id="code-text_105717">ARMOC</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105717,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105717,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105717">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%33%33%2e%39%39%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105717">
+<input placeholder="Email address ..." type="text" id="email_to_105717">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105717);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105717">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105717">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105717">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105717" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105717" code="BEARMOC" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $33.99 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">BEARMOC</span>
+<button id="coupon-copy-button" data-clipboard-text="BEARMOC" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105717,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105717,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105717" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105717" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Bearpaw Mens Moc Ii Ankle-High Suede Slipper only $33.99 (was $53.99) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 4 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105716"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Free Shipping at Hellocloth Inc",
+                                                                        "url": "https://couponsah.netlify.app/hellocloth-inc",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-31}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Hellocloth Inc",
+                                      "url": "http://hellocloth.com",
+                                      "address": "Hellocloth Inc"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/hellocloth-inc">
+<img itemprop="image" src="/thumbs/stores/store_3246.w120.h120.jpg" alt="">
+ </a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Free Shipping at Hellocloth Inc</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 weeks
+</span>
+</div>
+<div class="coupon-des">
+Free Shipping on All Orders $79+ </div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105716" id="code-link_105716" rel="nofollow">
+<span class="code-text" id="code-text_105716">AFFFS</span>
+<span class="get-code" id="get-code_105716">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105716" id="code-div_105716" style="display:none;">
+<span class="code-text" id="code-text_105716">AFFFS</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105716,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105716,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105716">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%46%72%65%65%20%53%68%69%70%70%69%6e%67%20%61%74%20%48%65%6c%6c%6f%63%6c%6f%74%68%20%49%6e%63%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105716">
+<input placeholder="Email address ..." type="text" id="email_to_105716">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105716);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105716">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105716">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105716">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105716" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105716" code="AFFFS" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_3246.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Free Shipping at Hellocloth Inc</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">AFFFS</span>
+<button id="coupon-copy-button" data-clipboard-text="AFFFS" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105716,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105716,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105716" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105716" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Free Shipping on All Orders $79+<p>
+<p>
+Expires in 4 weeks
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105714"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $225 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+ </div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $225 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Citizen Sunrise Two Tone Mother of Pearl Dial Womens Watch o<span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">nly $225.00 (was $795.00) with Free Shipping. Use code at Power Deal Checkout to get Discount. Ends 01/06<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105714" id="code-link_105714" rel="nofollow">
+<span class="code-text" id="code-text_105714">MPDWW</span>
+<span class="get-code" id="get-code_105714">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105714" id="code-div_105714" style="display:none;">
+<span class="code-text" id="code-text_105714">MPDWW</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105714,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105714,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105714">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%32%32%35%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105714">
+<input placeholder="Email address ..." type="text" id="email_to_105714">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105714);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105714">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105714">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105714">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105714" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105714" code="CITISTTMPDWW" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $225 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">CITISTTMPDWW</span>
+<button id="coupon-copy-button" data-clipboard-text="CITISTTMPDWW" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105714,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105714,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105714" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105714" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Citizen Sunrise Two Tone Mother of Pearl Dial Womens Watch only $225.00 (was $795.00) with Free Shipping. Use code at Power Deal Checkout to get Discount. Ends 01/06<p>
+<p>
+Expires in 4 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+<a name="coupon105713"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $135 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-06}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $135 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 4 days
+</span>
+</div>
+<div class="coupon-des">
+Alexander Statesman Triumph Mens Black Dial Stainless Steel <span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">Swiss Made Watch only $135.00 (was $999.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105713" id="code-link_105713" rel="nofollow">
+<span class="code-text" id="code-text_105713">A103B</span>
+<span class="get-code" id="get-code_105713">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105713" id="code-div_105713" style="display:none;">
+<span class="code-text" id="code-text_105713">A103B</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105713,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105713,-1);"><i class="frown icon"></i></div>
+
+</div>
+<span class="voted-value" id="vote_box_105713">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%31%33%35%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105713">
+<input placeholder="Email address ..." type="text" id="email_to_105713">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105713);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105713">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105713">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105713">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105713" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105713" code="TA103B" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $135 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">TA103B</span>
+<button id="coupon-copy-button" data-clipboard-text="TA103B" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105713,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105713,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105713" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105713" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Alexander Statesman Triumph Mens Black Dial Stainless Steel Swiss Made Watch only $135.00 (was $999.00) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 4 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+ <a name="coupon105712"></a>
+<script type="application/ld+json">
+                                {
+                                    "@context": "http://schema.org",
+                                    "@type": "SaleEvent",
+                                    "name": "Massgenie Coupon Code - $5.95 with Coupon at Massgenie",
+                                                                        "url": "https://couponsah.netlify.app/massgenie",
+                                    "startDate": "2019-01-03",
+                                    "endDate": "2019-01-07}",
+                                    "location": {
+                                      "@type": "Place",
+                                      "name": "Massgenie",
+                                      "url": "http://massgenie.com",
+                                      "address": "Massgenie"
+                                    }
+                                }
+                            </script>
+<div class="store-listing-item coupon-listing-item shadow-box">
+<div class="store-thumb-link" style="text-align: center;">
+<div class="store-thumb">
+<a href="/massgenie">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+</div>
+<div class="latest-coupon">
+<h3 class="coupon-title">Massgenie Coupon Code - $5.95 with Coupon at Massgenie</h3>
+<div class="c-type">
+<span class="c-code">Code</span> <span class="exp">
+Expires in 5 days
+</span>
+</div>
+<div class="coupon-des">
+Xbox One Titanfall 2 with Bonus Nitro Scorch Pack DLC only $<span class="des-more">...<a href="#"> More<i class="angle down icon"></i></a></span><span class="coupon-des-full">5.95 (was $59.99) with Free Shipping. Use code at Power Deal Checkout to get Discount<a class="des-less" href="#"> Less<i class="angle up icon"></i></a></span>
+</div>
+</div>
+<div class="coupon-detail coupon-button-type">
+<a href="#" class="coupon-button coupon-code" data-aff-url="/go.php?coupon_id=105712" id="code-link_105712" rel="nofollow">
+<span class="code-text" id="code-text_105712">NFNSP</span>
+<span class="get-code" id="get-code_105712">Get The Code</span>
+</a>
+<div class="coupon-code" data-aff-url="/go.php?coupon_id=105712" id="code-div_105712" style="display:none;">
+<span class="code-text" id="code-text_105712">NFNSP</span>
+</div>
+<div class="clear"></div>
+<div class="user-ratting ui icon basic buttons">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105712,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105712,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_105712">100% Success</span>
+<div class="coupon-footer coupon-listing-footer">
+<ul class="clearfix">
+<li><a title="Share it with your friend" data-reveal="reveal-share" href="#" rel="nofollow"><i class="share alternate icon"></i> Share</a></li>
+
+<li><a title="Send this coupon to an email" data-reveal="reveal-email" href="#" rel="nofollow"><i class="mail outline icon"></i> Email</a></li>
+</ul>
+</div>
+</div>
+<div class="coupon-footer coupon-listing-footer">
+<div class="reveal-content reveal-share">
+<span class="close"></span>
+<h4>Share it with your friends</h4>
+<div class="ui fluid left icon input">
+<input value="http://www.mybestcouponcodes.com/search?search_query=free+shipping" type="text">
+<i class="linkify icon"></i>
+</div>
+<br>
+<div class="coupon-share">
+<a class="tiny ui facebook button share_facebook share_button" onclick="window.open(this.href, 'Share', 'left=20,top=20,width=600,height=500,toolbar=1,resizable=0'); return false;" href="http://www.facebook.com/sharer.php?u%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67" rel="nofollow">
+<i class="facebook icon"></i>Facebook
+</a>
+<a class="tiny ui twitter button share_button" href="#" onclick="window.open('https://twitter.com/intent/tweet?original_referer=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&source=tweetbutton&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%6d%79%62%65%73%74%63%6f%75%70%6f%6e%63%6f%64%65%73%2e%63%6f%6d%2f%73%65%61%72%63%68%3f%73%65%61%72%63%68%5f%71%75%65%72%79%3d%66%72%65%65%2b%73%68%69%70%70%69%6e%67&text=%4d%61%73%73%67%65%6e%69%65%20%43%6f%75%70%6f%6e%20%43%6f%64%65%20%2d%20%24%35%2e%39%35%20%77%69%74%68%20%43%6f%75%70%6f%6e%20%61%74%20%4d%61%73%73%67%65%6e%69%65%46%69%6e%64%20%6d%6f%72%65%20%61%74%3a%20','popUpWindow','height=400,width=600,left=10,top=10,resizable=yes,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no,status=no')" rel="nofollow"><i class="twitter icon"></i>Twitter</a>
+</div>
+</div>
+<div class="reveal-content reveal-email">
+<span class="close"></span>
+<h4>Send this coupon to an email</h4>
+<div class="ui fluid action left icon input" id="email_send_105712">
+<input placeholder="Email address ..." type="text" id="email_to_105712">
+<i class="mail outline icon"></i>
+<div class="ui button btn btn_primary" onclick="sendCoupon(105712);">Send</div>
+</div><br>
+<div style="display:none; color:red; font-weight: bold;" id="email_send_error_105712">
+There was an error sending this coupon
+</div>
+<div style="display:none; color:green; font-weight: bold;" id="email_send_ok_105712">
+The coupon has been sent successfully
+</div>
+</div>
+<div class="reveal-content reveal-comments">
+<div class="ui threaded comments" id="comments_105712">
+<div class="clearfix"></div>
+<h4>&nbsp;</h4>
+</div>
+<span class="close"></span>
+<h4>Let others know how much you've saved</h4>
+<div class="ui form">
+<div class="field">
+<textarea class="span12" id="comment_105712" placeholder="Please log in to comment" rows="5" disabled onclick="login();"></textarea>
+</div>
+<button class="btn btn-primary span2 pull-right coupon-box comment-button" disabled onclick="login();"><i class="icon-comment"></i>&nbsp;&nbsp;Leave a comment</button>
+</div>
+</div>
+</div>
+
+<div id="105712" code="XBOTITANFNSP" class="ui modal coupon-modal coupon-code-modal">
+<div class="coupon-header clearfix">
+<div class="coupon-store-thumb">
+<a href="#">
+<img itemprop="image" src="/thumbs/stores/store_102.w120.h120.jpg" alt="">
+</a>
+</div>
+<div class="coupon-title">Massgenie Coupon Code - $5.95 with Coupon at Massgenie</div>
+<span class="close"></span>
+</div>
+<div class="coupon-content">
+<p class="coupon-type-text">Copy this code and use at checkout</p>
+<div class="modal-code">
+<span class="code-text" id="coupon_code">XBOTITANFNSP</span>
+<button id="coupon-copy-button" data-clipboard-text="XBOTITANFNSP" class="ui button big btn btn_secondary go-store" style="margin: 13px 10px;">Copy</button>
+</div>
+<div class="clearfix" style="line-height: 36px;">
+<div class="user-ratting ui icon basic buttons line-height-normal">
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It works" data-variation="inverted" onclick="couponVote(105712,1);"><i class="smile icon"></i></div>
+<div class="ui button icon-popup" data-offset="0" data-position="bottom left" data-content="It doesn't work" data-variation="inverted" onclick="couponVote(105712,-1);"><i class="frown icon"></i></div>
+</div>
+<span class="voted-value" id="vote_box_popup_105712" style="margin-left: 5px; font-size: 15px; letter-spacing: 0.5px; text-transform: uppercase;">100% Success</span>
+<a href="/go.php?coupon_id=105712" target="_blank" rel="nofollow" class="ui button btn btn_secondary go-store">Go To The Store<i class="angle right icon"></i></a>
+</div>
+<div class="clearfix">
+<span class="user-ratting-text">Did it work?</span>
+<span class="show-detail"><a href="#">Coupon Detail<i class="angle down icon"></i></a></span>
+</div>
+<div class="coupon-popup-detail">
+<p>Xbox One Titanfall 2 with Bonus Nitro Scorch Pack DLC only $5.95 (was $59.99) with Free Shipping. Use code at Power Deal Checkout to get Discount<p>
+<p>
+Expires in 5 days
+</p>
+<p>6 hours ago</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="pagination letter-list pull-right">
+<ul>
+<li class='active'><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=">1</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=2">2</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=3">3</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=4">4</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=5">5</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=6">6</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=7">7</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=8">8</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=9">9</a></li> <li class="active"><a href="javascript:void(0);">...</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=">77</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=78">78</a></li> <li><a href="/search?search_query=Free+Shipping&tab=coupons_deals&page=2">&raquo;</a></li>
+</ul>
+</div>
+</main>
+</div>
+<div id="secondary" class="widget-area sidebar">
+<aside class="widget widget_categories">
+<h4 class="widget-title">Popular Categories</h4>
+<div class="widget-content shadow-box">
+<ul>
+<li>
+<a href="/category/clothing-accessories">
+Clothing & Accessories
+</a>
+</li>
+<li>
+<a href="/category/home-garden">
+Home & Garden
+</a>
+</li>
+<li>
+<a href="/category/gifts-books-music-movies">
+Gifts, Books, Music & Movies
+</a>
+</li>
+<li>
+<a href="/category/office">
+Office
+</a>
+</li>
+ <li>
+<a href="/category/grocery-health-beauty">
+Grocery, Health & Beauty
+</a>
+</li>
+<li>
+<a href="/category/food-restaurants">
+Food & Restaurants
+</a>
+</li>
+<li>
+<a href="/category/toys-games-kids">
+Toys, Games & Kids
+</a>
+</li>
+<li>
+<a href="/category/travel">
+Travel
+</a>
+</li>
+<li>
+<a href="/category/electronics">
+Electronics
+</a>
+</li>
+</ul>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<footer id="colophon" class="site-footer">
+<div class="container">
+<div class="inner">
+<div class="stackable doubling ui grid">
+<div class="six wide column">
+<aside class="widget">
+<div class="widget_content">
+<a href="/" rel="home">
+<p><font color="white"><b>MyBestCouponCodes.com</b></font></p>
+</a>
+<p>Search the biggest database of coupons on the planet</p>
+</div>
+</aside>
+</div>
+<div class="six wide column">
+<aside class="widget widget_nav_menu">
+<h4 class="widget_heading">Pages</h4>
+<div class="widget_content">
+<ul>
+<li><a href="/page/privacy-policy">Privacy Policy</a></li>
+<li><a href="/page/affiliate-disclaimer">Affiliate Disclaimer</a></li>
+<li><a href="/page/terms-of-use">Terms of Use</a></li>
+</ul>
+</div>
+</aside>
+</div>
+<div class="four wide column">
+<aside class="widget">
+<h4 class="widget_heading">MyBestCouponCodes.com</h4>
+<div class="newsletter-box-wrapper">
+<form id="newsletter-box">
+</form>
+</div>
+</aside>
+ <aside class="widget">
+<div class="footer-social">
+<div class="sidebar-social">
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<div class="footer_copy">
+<p>Copyright &copy; MyBestCouponCodes.com All Rights Reserved. </p>
+<div class="clearfix">
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="apollo" id="userPopups">
+<div class="apollo-close">&times;</div>
+<div class="apollo-container clearfix">
+<div class="apollo-register apollo-section">
+<form class="form-signin" id="apollo-register-form" onsubmit="return false;">
+<div class="control-group register-facebook-info" id="registerSocialInfo">
+<div class="row-fluid">
+<div class="span2">
+<img id="registerSocialImage" src="" />
+</div>
+<div class="span10" style="padding-top: 0px; line-height: 12px !important;">
+<small class="very-small">
+Just one more step and you are connected. Please enter a password you would like to use with this site.
+</small>
+</div>
+</div>
+</div>
+<div class="control-group" id="register-groups-email">
+<input type="text" value="" id="registerEmail" class="input-block-level email" placeholder="Email address" />
+<span class="help-inline apollo-help"></span>
+</div>
+<div class="control-group" id="register-groups-user">
+<input type="text" value="" id="registerUser" class="input-block-level" placeholder="Username" />
+<span class="help-inline apollo-help"></span>
+</div>
+<div class="control-group" id="register-groups-pass1">
+<input type="password" value="" id="registerPass1" class="input-block-level" placeholder="Password" />
+<span class="help-inline apollo-help"></span>
+</div>
+<div class="control-group" id="register-groups-pass2">
+<input type="password" value="" id="registerPass2" class="input-block-level" placeholder="Confirm password" />
+<span class="help-inline apollo-help"></span>
+</div>
+<input type="hidden" id="registerFacebookId" />
+<input type="hidden" id="registerTwitterId" />
+<input type="hidden" id="registerAvatar" />
+<input type="hidden" id="registerAboutMe" value="" />
+<button class="ui primary button" type="submit" id="registerButton" onclick="doRegister();">Register</button>
+</form>
+<p class="apollo-back"> <a href="#"><i class="icon-arrow-left"></i> Back to login</a> </p>
+</div>
+<div class="apollo-login apollo-section">
+<form class="form-signin" id="apollo-login-form" onsubmit="return false;">
+<div class="control-group" id="login-groups-username">
+<input type="text" value="" class="input-block-level" id="loginUsername" placeholder="Username or Email address" />
+<span class="help-inline apollo-help"></span>
+</div>
+ <div class="control-group" id="login-groups-password">
+<input type="password" value="" class="input-block-level" id="loginPassword" placeholder="Password" />
+<span class="help-inline apollo-help"></span>
+</div>
+<button class="ui primary button" type="submit" id="loginButton" onclick="doLogin();">Login</button>
+</form>
+<p class="apollo-register-account"> <a href="javascript:void(0);" onclick="switchPanel('register');" class="register-link">Need an account? <strong>Register here </strong><i class="icon-arrow-right"></i></a><br /><a href="javascript:void(0);" onclick="switchPanel('forgotten-password');" class="password-link"><small>Forgot your password?</small></a> </p>
+</div>
+<div class="apollo-forgotten-password apollo-section">
+<form class="form-signin" id="apollo-forgotten-password-form">
+<div class="control-group">
+<span class="help-inline hide no-padding" id="forgotFeedback"></span>
+<div class="clearfix"></div>
+<input type="text" value="" class="input-block-level email" id="forgotEmail" placeholder="Email address" />
+</div>
+<button class="btn btn-large btn-block btn-primary" type="button" onclick="resetPasswordEmail();">Reset password</button>
+</form>
+<p class="apollo-back"> <a href="javascript:void();" onclick="switchPanel('login');"><i class="icon-arrow-left"></i> Back to login</a> </p>
+</div>
+<div class="apollo-reset-password apollo-section">
+<form class="form-signin" id="apollo-reset-password-form">
+<div class="control-group">
+<span class="help-inline hide no-padding" id="resetFeedback"></span>
+<div class="clearfix"></div>
+<input type="password" value="" class="input-block-level" id="resetPass1" placeholder="New password" />
+<input type="password" value="" class="input-block-level" id="resetPass2" placeholder="Confirm new password" />
+<input type="hidden" value="" id="resetUserId" />
+<input type="hidden" value="" id="resetHash" />
+</div>
+<button class="btn btn-large btn-block btn-primary" type="button" onclick="doResetPassword();">Reset password</button>
+</form>
+<p class="apollo-back"> <a href="javascript:void();" onclick="switchPanel('login');"><i class="icon-arrow-left"></i> Back to login</a> </p>
+</div>
+</div>
+</div>
+<div class="apollo apollo-wide" id="subscribePopups">
+<div class="apollo-close">&times;</div>
+<div class="apollo-container clearfix">
+<div class="apollo-user-subscribe apollo-section">
+<div class="row-fluid">
+<div class="span3" id="user-subscribe-store-image">
+</div>
+<div class="span9">
+Are you sure you want to subscribe for email updates about the most recent <strong id="user-subscribe-store-name"></strong> coupons and deals?
+</div>
+</div>
+<div class="clearfix"></div><br />
+<div class="row-fluid">
+<div class="control-group" id="user-subscribe-group">
+<input type="hidden" id="user-subscribe-store-id" value="0" />
+<input type="hidden" id="user-subscribe-user-id" value="0" />
+<button class="btn btn-danger span5 pull-left" style="margin-left:0px;" onclick="cancelPopup('#subscribePopups');">Cancel</button>
+<button class="btn btn-primary span5 pull-right" data-loading-text="<i class='icon-spinner icon-spin icon-large'></i>&nbsp;&nbsp;Subscribe" onclick="doSubscribe(jQuery(this), jQuery('#user-subscribe-user-id').val(), jQuery('#user-subscribe-store-id').val(), '');">Subscribe</button>
+<div class="clearfix"></div><br />
+<span class="help-inline" style="display:none;"></span>
+</div>
+</div>
+</div>
+<div class="apollo-guest-subscribe apollo-section">
+<div class="row-fluid">
+<div class="span3" id="guest-subscribe-store-image">
+</div>
+<div class="span9">
+Please enter your email address to subscribe for email updates about the most recent <strong id="guest-subscribe-store-name"></strong> coupons and deals!
+</div>
+</div>
+<div class="clearfix"></div><br />
+<div class="row-fluid">
+<div class="control-group" id="guest-subscribe-group">
+<div class="input-append span12">
+<input type="hidden" id="guest-subscribe-store-id" value="0" />
+<input class="span9" type="text" placeholder="Email address" id="guest-subscribe-email">
+<button class="btn btn-primary" data-loading-text="<i class='icon-spinner icon-spin icon-large'></i>&nbsp;&nbsp;Subscribe" onclick="doSubscribe(jQuery(this), 0, jQuery('#guest-subscribe-store-id').val(), jQuery('#guest-subscribe-email').val());">Subscribe</button>
+</div>
+<div class="clearfix"></div>
+<span class="help-inline" style="display:none;"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="apollo apollo-wide" id="subscribeConfirmPopup">
+<div class="apollo-close">&times;</div>
+<div class="apollo-container clearfix">
+<div class="apollo-section">
+<div class="row-fluid">
+<div class="span2">
+<i class="icon-envelope" style="font-size: 64px; color: #2C3E50;"></i>
+</div>
+<div class="span10">
+Thank you for subscribing to our Coupon / Deal updates. We will send you an email when we find a new deal or coupon for your selected store(s)
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="apollo apollo-wide" id="openLinkPopup">
+<div class="apollo-close">&times;</div>
+<div class="apollo-container clearfix">
+<div class="apollo-section">
+<div class="row-fluid hidden-phone" style="border-bottom: 1px solid #e2e2e2; padding-bottom: 15px; margin-bottom: 15px;">
+<div class="span2">
+<a href="/" target="_blank" class="openLinkClickable">
+<img src="" id="openLinkThumbnail" />
+</a>
+</div>
+<div class="span10">
+<h4 class="heading" id="openLinkTitle"></h4>
+<p id="openLinkDescription"></p>
+</div>
+</div>
+<div class="row-fluid visible-phone" style="padding-bottom: 20px; margin-bottom: 15px;">
+<div class="span12" style="text-align:center;">
+<a href="/" target="_blank" class="openLinkClickable">
+<img src="" id="openLinkThumbnailPhone" style="max-height: 150px;" />
+</a>
+</div>
+</div>
+<div class="row-fluid visible-phone" style="border-bottom: 1px solid #e2e2e2; padding-bottom: 15px; margin-bottom: 15px;">
+<div class="span12">
+<h4 class="heading" id="openLinkTitlePhone"></h4>
+<p id="openLinkDescriptionPhone"></p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12" id="openLinkAction">
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/templates/trendy/assets/js/clipboard.min.js"></script>
+<script src="/templates/trendy/assets/js/scripts.js?v=25074"></script>
+<script src="/templates/trendy/assets/js/libs/semantic.min.js"></script>
+<script src="/templates/trendy/assets/js/libs/owl.carousel.js"></script>
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+(function() {
+    var u="//www.mybestcouponcodes.com/";
+    _paq.push(["setTrackerUrl", u+"v.php"]);
+    _paq.push(["setSiteId", "61"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0];
+    g.type="text/javascript"; g.async=true; g.defer=true; g.src=u+"v.php"; s.parentNode.insertBefore(g,s);
+})();
+</script>
+</div>
+</div>
+<script>
+    function toggleSidebar()
+    {
+      $('#app .ui.sidebar')
+        .sidebar({context:$('#app')})
+        .sidebar('setting', 'transition', 'overlay')
+        .sidebar('toggle');
+    }
+
+    /*
+    document.addEventListener("DOMContentLoaded", function() {
+      toggleSidebar();
+    });*/
+</script>
+</body>
+</html>

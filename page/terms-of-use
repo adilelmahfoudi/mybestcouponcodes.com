@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Terms of Use</title>
+<meta name="description" content="" />
+<meta name="keywords" content="">
+<meta property="og:site_name" content="MyBestCouponCodes.com" />
+<meta property="og:title" content="Terms of Use" />
+<meta property="og:description" content="" />
+<!--[if lt IE 9]><script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link rel="shortcut icon" href="#" title="Favicon" />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600italic,600,700,700italic' rel='stylesheet' type='text/css'>
+<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,300italic,400italic,600italic,600,700,700italic" rel="stylesheet">
+<link rel="stylesheet" href="/templates/trendy/assets/css/semantic.min.css">
+<link rel="stylesheet" href="/templates/trendy/assets/css/style.css">
+<script>
+        var baseurl = 'https://couponsah.netlify.app';
+        var templatepath = '/templates/trendy';
+        var click_route = 'click';
+        var user_route = 'user';
+        var coupon_route = 'coupon';
+        var deal_route = 'deal';
+        var menu = 'page';
+        var pop_style = '';
+        
+                    var user_id = 0;
+        
+                    
+            var lang_js = {};
+            
+                            lang_js['open_offer'] = "Open offer";
+                            lang_js['copy_and_open'] = "Copy & Open";
+                            lang_js['copy'] = "Copy";
+                            lang_js['all_fields_are_required'] = "All fields are required";
+                            lang_js['password_updated_message'] = "Your password is now updated. <a href=\"javascript:void(0);\" onclick=\"login();\">Click here</a> to login to your account<br /><br />";
+                            lang_js['please_enter_email'] = "Please enter your email address";
+                            lang_js['cant_find_email'] = "Can't find this email address in the database";
+                            lang_js['password_reset_email_sent'] = "An email with instructions on how to reset your password has been sent to the specified address";
+                            lang_js['login'] = "Login";
+                            lang_js['logging_in'] = "Logging in...";
+                            lang_js['register'] = "Register";
+                            lang_js['registering'] = "Registering...";
+                            lang_js['connect_with_twitter'] = "Connect with <strong>Twitter</strong>";
+                            lang_js['connect_with_facebook'] = "Connect with <strong>Facebook</strong>";
+                            lang_js['unexpected_error'] = "Unexpected error occured. Please try reloading this page";
+                            lang_js['invalid_email'] = "Please provide a valid email address";
+                            lang_js['subscribe_thanks'] = "Thank you for subscribing! An email confirmation should arrive to your inbox shortly.";
+                            lang_js['unsubscribe_message'] = "You will be no longer getting updates from this store.";
+                            lang_js['subscribe'] = "Subscribe";
+                            lang_js['unsubscribe'] = "Unsubscribe";
+                            lang_js['favorite'] = "Add to favorites";
+                            lang_js['favorite_it'] = "Favorite It";
+                            lang_js['your_favorite'] = "Your Favorite";
+                            lang_js['unfavorite'] = "Unfavorite";
+                            lang_js['profile_updated'] = "Your profile has been updated successfully";
+                            lang_js['vote'] = "vote";
+                            lang_js['votes'] = "votes";
+                            lang_js['success'] = "Success";
+                            lang_js['SUCCESS'] = "SUCCESS";
+                        </script>
+<style>
+        
+            body {
+                background: url('/templates/trendy/img/backgrounds/cream_dust.png') !important;
+            }
+            .primary-header {
+                background: #2c3e50 !important;
+            }
+            .highlight-icon {
+                color: #ffffff !important;
+            }
+            .highlight-text {
+                color: #ffffff !important;
+            }
+            .logo-text {
+                color: #ffffff !important;
+            }
+            #header-search .header-search-submit {
+                background: #fb8b24 !important;
+            }
+            .header-search-submit {
+                background: #fb8b24 !important;
+            }
+            .newsletter-box-wrapper.shadow-box .input .ui.button {
+                background: #fb8b24 !important;
+            }
+            .site-footer .newsletter-box-wrapper .input .ui.button {
+                background: #fb8b24 !important;
+            }
+            .site-footer .footer-social a {
+                background: #fb8b24 !important;
+                color: #ffffff !important;
+            }
+            .coupon-code {
+                background: url('/templates/trendy/img/backgrounds/cream_dust.png') !important;
+            }
+            .coupon-deal {
+                background: #9a031e !important;
+                color: #fff !important;
+            }
+            .get-code {
+                background: #9a031e !important;
+                color: #fff !important;
+            }
+            .get-code:after {
+                border-left: #9a031e !important;
+            }
+            #header-search .header-search-submit {
+                background: #9a031e !important;
+            }
+            #subscribe_store {
+                background: #9a031e !important;
+            }
+            #subscribe_mailchimp  {
+                background: #9a031e !important;
+            }
+            a {
+                color: #004e64 !important;
+            }
+            .share_button {
+                color: #ffffff !important;
+            }
+        
+    </style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="/templates/trendy/assets/js/bootstrap.js"></script>
+<script src="/templates/trendy/assets/js/ajaxupload.js"></script>
+<script src="/templates/trendy/assets/js/bootstrap-datepicker.js"></script>
+<script src="/templates/trendy/assets/js/clipboard.min.js"></script>
+<script src="/templates/trendy/assets/js/jquery.ui.autocomplete.js"></script>
+<script src="/templates/trendy/assets/js/jquery.zclip.js"></script>
+<script src="/templates/trendy/assets/js/jquery-ui-datepicker.min.js"></script>
+<link rel="stylesheet" href="/templates/trendy/assets/css/jquery-ui-datepicker.min.css">
+<link href="/templates/trendy/assets/css/apollo.css" rel="stylesheet">
+<link rel="stylesheet" href="/templates/trendy/assets/css/jquery.ui.autocomplete.css">
+</head>
+<body>
+<div id="app">
+<div class="ui left vertical labeled icon sidebar menu">
+<style>
+                        .hoverbold:hover {
+                            font-weight:bold;
+                        }                    
+                        .ui.icon.menu .item {
+                            height: auto;
+                            text-align: left !important;
+                            color: #1b1c1d;
+                        }                            
+                    </style>
+<div class="ui vertical menu" style="margin: 0em -.5em !important;">
+<div class="ui item" style="font-size: 13px; font-weight: 600; letter-spacing: 0.2px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<div class="header" style="cursor: pointer;" onclick="$('#browse_coupons_menu').toggle();"><i class="dropdown icon" style="padding-right: 5px;"></i>BROWSE COUPONS</div>
+<div class="menu" id="browse_coupons_menu" style="display:none;">
+<div class="item"><a href="/category" rel="nofollow">Browse by Categories</a></div>
+<div class="item"><a href="/stores" rel="nofollow">Browse by Stores</a></div>
+<div class="item"><a href="/search?search_query=free+shipping" rel="nofollow"># Free Shipping</a></div>
+<div class="item"><a href="/search?search_query=deals" rel="nofollow"># Product Deals</a></div>
+<div class="item"><a href="/search?search_query=coupons" rel="nofollow"># Product Coupons</a></div>
+</div>
+</div>
+<div class="ui item" style="font-size: 13px; font-weight: 600; letter-spacing: 0.2px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<div class="header" style="cursor: pointer;" onclick="$('#stores_menu').toggle();"><i class="dropdown icon" style="padding-right: 5px;"></i>TOP STORES</div>
+<div class="menu" id="stores_menu" style="display:none;">
+<a class="hoverbold" href="/stores" style="padding: 10px 0px 10px 15px; display: block">All Stores</a>
+<hr style="margin-bottom: 0px !important;">
+<ul class="item" style="list-style-type: none;box-shadow: none; background: #FFFFFF; padding-bottom: 0; border-top: 1px solid #e9e9e;">
+</ul>
+</div>
+</div>
+<div class="ui item" style="font-size: 13px; font-weight: 600; letter-spacing: 0.2px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<div class="header" style="cursor: pointer;" onclick="$('#categories_menu').toggle();"><i class="dropdown icon" style="padding-right: 5px;"></i>CATEGORIES</div>
+<div class="menu" id="categories_menu" style="display:none;">
+<ul class="item" style="list-style-type: none;box-shadow: none; background: #FFFFFF; padding-bottom: 0; border-top: 1px solid #e9e9e;">
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/clothing-accessories">Clothing & Accessories</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/home-garden">Home & Garden</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/gifts-books-music-movies">Gifts, Books, Music & Movies</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/office">Office</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/grocery-health-beauty">Grocery, Health & Beauty</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/food-restaurants">Food & Restaurants</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/toys-games-kids">Toys, Games & Kids</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/travel">Travel</a></li>
+<li style="padding: 5px 0px;"><a class="hoverbold" href="/category/electronics">Electronics</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="pusher">
+<div id="page" class="hfeed site">
+<header id="masthead" class="ui page site-header" style="margin-bottom: 20px;">
+<div class="primary-header">
+<div class="container">
+<div class="logo_area fleft">
+<a href="/" rel="home">
+<font color="white" class="logo-text"><b>MyBestCouponCodes.com</b></font>
+</a>
+</div>
+<div class="header_left fleft">
+<form id="header-search" action="/search">
+<div class="header-search-input ui search large action left icon input">
+<input class="prompt" id="search_query" name="search_query" placeholder="Search" type="text">
+<i class="search icon"></i>
+<div class="header-search-submit ui button" onclick="$(this).closest('form').submit()">Search</div>
+</div>
+<div class="clear"></div>
+</form>
+</div>
+<div class="header-highlight fright">
+<a href="/search?search_query=free+shipping" rel="nofollow">
+<div class="highlight-icon"><i class="shop icon"></i></div>
+<div class="highlight-text"># Free Shipping</div>
+</a>
+<a href="/search?search_query=coupons" rel="nofollow">
+<div class="highlight-icon"><i class="dollar icon"></i></div>
+<div class="highlight-text">Coupons</div>
+</a>
+<a href="/search?search_query=deals" rel="nofollow">
+<div class="highlight-icon"><i class="thumbs up icon"></i></div>
+<div class="highlight-text">Deals</div>
+</a>
+</div>
+</div>
+</div>
+<div class="site-navigation">
+<div class="container">
+<div class="ui text menu" style="margin: 0em -.5em !important; height: 50px;">
+<div class="item" onclick="toggleSidebar()" style="color: #004e64 !important; cursor: pointer; font-size: 20px; font-weight: 600; letter-spacing: 0.2px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;">
+<i class="content icon"></i>
+</div>
+<div class="ui item hide_mobile" style="font-size: 14px; font-weight: 600; letter-spacing: 0.4px; padding: 10px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<a class="hoverbold" href="/">HOME</a>
+</div>
+<div class="ui item" style="font-size: 14px; font-weight: 600; letter-spacing: 0.4px; padding: 10px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<a class="hoverbold" href="/category">CATEGORIES</a>
+</div>
+<div class="ui item" style="font-size: 14px; font-weight: 600; letter-spacing: 0.4px; padding: 10px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<a class="hoverbold" href="/stores">STORES</a>
+</div>
+<div class="ui item" style="font-size: 14px; font-weight: 600; letter-spacing: 0.4px; padding: 10px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; color: #004e64 !important;">
+<a class="hoverbold" href="/blog">BLOG</a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="content" class="site-content">
+<section class="custom-page-header">
+<div class="container">
+<div class="ui small breadcrumb">
+<a class="section" href="/">Home</a>
+<i class="right angle right icon divider"></i>
+<div class="active section">Terms of Use</div>
+</div>
+</div>
+</section>
+<div id="content-wrap" class="container right-sidebar">
+<div id="primary" class="content-area">
+<main id="main" class="site-main">
+<section id="store-listings-wrapper" class="wpb_content_element">
+<h2 class="section-heading">Terms of Use </h2>
+</section>
+<p>The following terms and conditions govern all use of the MyBestCouponCodes.com website and all content, services and products available at or through the website (taken together, the Website). The Website is owned and operated by MyBestCouponCodes Inc ("MyBestCouponCodes"). The Website is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, MyBestCouponCodes's Privacy Policy) and procedures that may be published from time to time on this Site by MyBestCouponCodes (collectively, the "Agreement").
+Please read this Agreement carefully before accessing or using the Website. By accessing or using any part of the web site, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access the Website or use any services. If these terms and conditions are considered an offer by MyBestCouponCodes, acceptance is expressly limited to these terms. The Website is available only to individuals who are at least 13 years old.
+</p><ol>
+<li><strong>Your MyBestCouponCodes.com Account and Site.</strong> If you create a blog/site on the Website, you are responsible for maintaining the security of your account and blog, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the blog. You must not describe or assign keywords to your blog in a misleading or unlawful manner, including in a manner intended to trade on the name or reputation of others, and MyBestCouponCodes may change or remove any description or keyword that it considers inappropriate or unlawful, or otherwise likely to cause MyBestCouponCodes liability. You must immediately notify MyBestCouponCodes of any unauthorized uses of your blog, your account or any other breaches of security. MyBestCouponCodes will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.</li>
+<li><strong>Responsibility of Contributors.</strong> If you operate a blog, comment on a blog, post material to the Website, post links on the Website, or otherwise make (or allow any third party to make) material available by means of the Website (any such material, "Content"), You are entirely responsible for the content of, and any harm resulting from, that Content. That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software. By making Content available, you represent and warrant that:
+<ul>
+<li>the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;</li>
+<li>if your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;</li>
+<li>you have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;</li>
+<li>the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;</li>
+<li class="important">the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);</li>
+<li>the Content is not pornographic, does not contain threats or incite violence towards individuals or entities, and does not violate the privacy or publicity rights of any third party;</li>
+<li>your blog is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, other blogs and web sites, and similar unsolicited promotional methods;</li>
+<li>your blog is not named in a manner that misleads your readers into thinking that you are another person or company. For example, your blog's URL or name is not the name of a person other than yourself or company other than your own; and</li>
+<li>you have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses and effects of the materials, whether requested to do so by MyBestCouponCodes or otherwise.</li>
+</ul>
+By submitting Content to MyBestCouponCodes for inclusion on your Website, you grant MyBestCouponCodes a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing and promoting your blog. If you delete Content, MyBestCouponCodes will use reasonable efforts to remove it from the Website, but you acknowledge that caching or references to the Content may not be made immediately unavailable.
+Without limiting any of those representations or warranties, MyBestCouponCodes has the right (though not the obligation) to, in MyBestCouponCodes's sole discretion (i) refuse or remove any content that, in MyBestCouponCodes's reasonable opinion, violates any MyBestCouponCodes policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Website to any individual or entity for any reason, in MyBestCouponCodes's sole discretion. MyBestCouponCodes will have no obligation to provide a refund of any amounts previously paid.</li>
+<li><strong>Payment and Renewal.</strong>
+<ul>
+<li><strong>General Terms.</strong>
+By selecting a product or service, you agree to pay MyBestCouponCodes the one-time and/or monthly or annual subscription fees indicated (additional payment terms may be included in other communications). Subscription payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated. Payments are not refundable.</li>
+<li><strong>Automatic Renewal. </strong>
+Unless you notify MyBestCouponCodes before the end of the applicable subscription period that you want to cancel a subscription, your subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such subscription (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Upgrades can be canceled at any time by submitting your request to MyBestCouponCodes in writing.</li>
+</ul>
+</li>
+<li><strong>Services.</strong>
+<ul>
+<li><strong>Fees; Payment. </strong>By signing up for a Services account you agree to pay MyBestCouponCodes the applicable setup fees and recurring fees. Applicable fees will be invoiced starting from the day your services are established and in advance of using such services. MyBestCouponCodes reserves the right to change the payment terms and fees upon thirty (30) days prior written notice to you. Services can be canceled by you at anytime on thirty (30) days written notice to MyBestCouponCodes.</li>
+<li><strong>Support.</strong> If your service includes access to priority email support. "Email support" means the ability to make requests for technical support assistance by email at any time (with reasonable efforts by MyBestCouponCodes to respond within 24 hours) concerning the use of the VIP Services. "Priority" means that support takes priority over support for users of the standard or free MyBestCouponCodes.com services. All support will be provided in accordance with MyBestCouponCodes standard services practices, procedures and policies.</li>
+</ul>
+</li>
+<li><strong>Responsibility of Website Visitors.</strong> MyBestCouponCodes has not reviewed, and cannot review, all of the material, including computer software, posted to the Website, and cannot therefore be responsible for that material's content, use or effects. By operating the Website, MyBestCouponCodes does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful or non-harmful. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. The Website may contain content that is offensive, indecent, or otherwise objectionable, as well as content containing technical inaccuracies, typographical mistakes, and other errors. The Website may also contain material that violates the privacy or publicity rights, or infringes the intellectual property and other proprietary rights, of third parties, or the downloading, copying or use of which is subject to additional terms and conditions, stated or unstated. MyBestCouponCodes disclaims any responsibility for any harm resulting from the use by visitors of the Website, or from any downloading by those visitors of content there posted.</li>
+<li><strong>Content Posted on Other Websites.</strong> We have not reviewed, and cannot review, all of the material, including computer software, made available through the websites and webpages to which MyBestCouponCodes.com links, and that link to MyBestCouponCodes.com. MyBestCouponCodes does not have any control over those non-MyBestCouponCodes websites and webpages, and is not responsible for their contents or their use. By linking to a non-MyBestCouponCodes website or webpage, MyBestCouponCodes does not represent or imply that it endorses such website or webpage. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. MyBestCouponCodes disclaims any responsibility for any harm resulting from your use of non-MyBestCouponCodes websites and webpages.</li>
+<li><strong>Copyright Infringement and DMCA Policy.</strong> As MyBestCouponCodes asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that material located on or linked to by MyBestCouponCodes.com violates your copyright, you are encouraged to notify MyBestCouponCodes in accordance with MyBestCouponCodes's Digital Millennium Copyright Act ("DMCA") Policy. MyBestCouponCodes will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material. MyBestCouponCodes will terminate a visitor's access to and use of the Website if, under appropriate circumstances, the visitor is determined to be a repeat infringer of the copyrights or other intellectual property rights of MyBestCouponCodes or others. In the case of such termination, MyBestCouponCodes will have no obligation to provide a refund of any amounts previously paid to MyBestCouponCodes.</li>
+<li><strong>Intellectual Property.</strong> This Agreement does not transfer from MyBestCouponCodes to you any MyBestCouponCodes or third party intellectual property, and all right, title and interest in and to such property will remain (as between the parties) solely with MyBestCouponCodes. MyBestCouponCodes, MyBestCouponCodes.com, the MyBestCouponCodes.com logo, and all other trademarks, service marks, graphics and logos used in connection with MyBestCouponCodes.com, or the Website are trademarks or registered trademarks of MyBestCouponCodes or MyBestCouponCodes's licensors. Other trademarks, service marks, graphics and logos used in connection with the Website may be the trademarks of other third parties. Your use of the Website grants you no right or license to reproduce or otherwise use any MyBestCouponCodes or third-party trademarks.</li>
+<li><strong>Advertisements.</strong> MyBestCouponCodes reserves the right to display advertisements on your blog unless you have purchased an ad-free account.</li>
+<li><strong>Attribution.</strong> MyBestCouponCodes reserves the right to display attribution links such as 'Blog at MyBestCouponCodes.com,' theme author, and font attribution in your blog footer or toolbar.</li>
+<li><strong>Partner Products.</strong> By activating a partner product (e.g. theme) from one of our partners, you agree to that partner's terms of service. You can opt out of their terms of service at any time by de-activating the partner product.</li>
+<li><strong>Domain Names.</strong> If you are registering a domain name, using or transferring a previously registered domain name, you acknowledge and agree that use of the domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers ("ICANN"), including their <a href="https://www.icann.org/resources/pages/responsibilities-2014-03-14-en" target="_blank" rel="noopener">Registration Rights and Responsibilities</a>.</li>
+<li><strong>Changes. </strong>MyBestCouponCodes reserves the right, at its sole discretion, to modify or replace any part of this Agreement. It is your responsibility to check this Agreement periodically for changes. Your continued use of or access to the Website following the posting of any changes to this Agreement constitutes acceptance of those changes. MyBestCouponCodes may also, in the future, offer new services and/or features through the Website (including, the release of new tools and resources). Such new features and/or services shall be subject to the terms and conditions of this Agreement. <strong>
+</strong></li>
+<li><strong>Termination. </strong>MyBestCouponCodes may terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your MyBestCouponCodes.com account (if you have one), you may simply discontinue using the Website. Notwithstanding the foregoing, if you have a paid services account, such account can only be terminated by MyBestCouponCodes if you materially breach this Agreement and fail to cure such breach within thirty (30) days from MyBestCouponCodes's notice to you thereof; provided that, MyBestCouponCodes can terminate the Website immediately as part of a general shut down of our service. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability. <strong>
+</strong></li>
+<li class="important"><strong>Disclaimer of Warranties.</strong> The Website is provided "as is". MyBestCouponCodes and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither MyBestCouponCodes nor its suppliers and licensors, makes any warranty that the Website will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, the Website at your own discretion and risk.</li>
+<li class="important"><strong>Limitation of Liability.</strong> In no event will MyBestCouponCodes, or its suppliers or licensors, be liable with respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to MyBestCouponCodes under this agreement during the twelve (12) month period prior to the cause of action. MyBestCouponCodes shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.</li>
+<li><strong>General Representation and Warranty.</strong> You represent and warrant that (i) your use of the Website will be in strict accordance with the MyBestCouponCodes Privacy Policy, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of the Website will not infringe or misappropriate the intellectual property rights of any third party.</li>
+<li><strong>Indemnification.</strong> You agree to indemnify and hold harmless MyBestCouponCodes, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys' fees, arising out of your use of the Website, including but not limited to your violation of this Agreement.</li>
+<li><strong>Miscellaneous.</strong> This Agreement constitutes the entire agreement between MyBestCouponCodes and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of MyBestCouponCodes, or by the posting by MyBestCouponCodes of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of the Website will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in San Francisco County, California. Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under this Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. ("JAMS") by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in San Francisco, California, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys' fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties' original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; MyBestCouponCodes may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.</li>
+</ol>
+</main>
+</div>
+<div id="secondary" class="widget-area sidebar">
+<aside class="widget widget_categories">
+<h4 class="widget-title">Popular Categories</h4>
+<div class="widget-content shadow-box">
+<ul>
+<li>
+<a href="/category/clothing-accessories">
+Clothing & Accessories
+</a>
+</li>
+<li>
+<a href="/category/home-garden">
+Home & Garden
+</a>
+</li>
+<li>
+<a href="/category/gifts-books-music-movies">
+Gifts, Books, Music & Movies
+</a>
+</li>
+<li>
+<a href="/category/office">
+Office
+</a>
+</li>
+<li>
+<a href="/category/grocery-health-beauty">
+Grocery, Health & Beauty
+</a>
+</li>
+<li>
+<a href="/category/food-restaurants">
+Food & Restaurants
+</a>
+</li>
+<li>
+<a href="/category/toys-games-kids">
+Toys, Games & Kids
+</a>
+</li>
+<li>
+<a href="/category/travel">
+Travel
+</a>
+</li>
+<li>
+<a href="/category/electronics">
+Electronics
+</a>
+</li>
+</ul>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<footer id="colophon" class="site-footer">
+<div class="container">
+<div class="inner">
+<div class="stackable doubling ui grid">
+<div class="six wide column">
+<aside class="widget">
+<div class="widget_content">
+<a href="/" rel="home">
+ <p><font color="white"><b>MyBestCouponCodes.com</b></font></p>
+</a>
+<p>Search the biggest database of coupons on the planet</p>
+</div>
+</aside>
+</div>
+<div class="six wide column">
+<aside class="widget widget_nav_menu">
+<h4 class="widget_heading">Pages</h4>
+<div class="widget_content">
+<ul>
+<li><a href="/page/privacy-policy">Privacy Policy</a></li>
+<li><a href="/page/affiliate-disclaimer">Affiliate Disclaimer</a></li>
+<li><a href="/page/terms-of-use">Terms of Use</a></li>
+</ul>
+</div>
+</aside>
+</div>
+<div class="four wide column">
+<aside class="widget">
+<h4 class="widget_heading">MyBestCouponCodes.com</h4>
+<div class="newsletter-box-wrapper">
+<form id="newsletter-box">
+</form>
+</div>
+</aside>
+<aside class="widget">
+<div class="footer-social">
+<div class="sidebar-social">
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<div class="footer_copy">
+<p>Copyright &copy; MyBestCouponCodes.com All Rights Reserved. </p>
+<div class="clearfix">
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="apollo" id="userPopups">
+<div class="apollo-close">&times;</div>
+<div class="apollo-container clearfix">
+<div class="apollo-register apollo-section">
+<form class="form-signin" id="apollo-register-form" onsubmit="return false;">
+<div class="control-group register-facebook-info" id="registerSocialInfo">
+<div class="row-fluid">
+<div class="span2">
+<img id="registerSocialImage" src="" />
+</div>
+<div class="span10" style="padding-top: 0px; line-height: 12px !important;">
+<small class="very-small">
+Just one more step and you are connected. Please enter a password you would like to use with this site.
+</small>
+</div>
+</div>
+</div>
+<div class="control-group" id="register-groups-email">
+<input type="text" value="" id="registerEmail" class="input-block-level email" placeholder="Email address" />
+<span class="help-inline apollo-help"></span>
+</div>
+<div class="control-group" id="register-groups-user">
+<input type="text" value="" id="registerUser" class="input-block-level" placeholder="Username" />
+<span class="help-inline apollo-help"></span>
+</div>
+<div class="control-group" id="register-groups-pass1">
+<input type="password" value="" id="registerPass1" class="input-block-level" placeholder="Password" />
+<span class="help-inline apollo-help"></span>
+</div>
+<div class="control-group" id="register-groups-pass2">
+<input type="password" value="" id="registerPass2" class="input-block-level" placeholder="Confirm password" />
+<span class="help-inline apollo-help"></span>
+</div>
+<input type="hidden" id="registerFacebookId" />
+<input type="hidden" id="registerTwitterId" />
+<input type="hidden" id="registerAvatar" />
+<input type="hidden" id="registerAboutMe" value="" />
+<button class="ui primary button" type="submit" id="registerButton" onclick="doRegister();">Register</button>
+</form>
+<p class="apollo-back"> <a href="#"><i class="icon-arrow-left"></i> Back to login</a> </p>
+</div>
+<div class="apollo-login apollo-section">
+<form class="form-signin" id="apollo-login-form" onsubmit="return false;">
+<div class="control-group" id="login-groups-username">
+<input type="text" value="" class="input-block-level" id="loginUsername" placeholder="Username or Email address" />
+<span class="help-inline apollo-help"></span>
+</div>
+<div class="control-group" id="login-groups-password">
+<input type="password" value="" class="input-block-level" id="loginPassword" placeholder="Password" />
+<span class="help-inline apollo-help"></span>
+</div>
+<button class="ui primary button" type="submit" id="loginButton" onclick="doLogin();">Login</button>
+</form>
+<p class="apollo-register-account"> <a href="javascript:void(0);" onclick="switchPanel('register');" class="register-link">Need an account? <strong>Register here </strong><i class="icon-arrow-right"></i></a><br /><a href="javascript:void(0);" onclick="switchPanel('forgotten-password');" class="password-link"><small>Forgot your password?</small></a> </p>
+</div>
+<div class="apollo-forgotten-password apollo-section">
+<form class="form-signin" id="apollo-forgotten-password-form">
+<div class="control-group">
+<span class="help-inline hide no-padding" id="forgotFeedback"></span>
+<div class="clearfix"></div>
+<input type="text" value="" class="input-block-level email" id="forgotEmail" placeholder="Email address" />
+</div>
+<button class="btn btn-large btn-block btn-primary" type="button" onclick="resetPasswordEmail();">Reset password</button>
+</form>
+<p class="apollo-back"> <a href="javascript:void();" onclick="switchPanel('login');"><i class="icon-arrow-left"></i> Back to login</a> </p>
+</div>
+<div class="apollo-reset-password apollo-section">
+<form class="form-signin" id="apollo-reset-password-form">
+<div class="control-group">
+<span class="help-inline hide no-padding" id="resetFeedback"></span>
+<div class="clearfix"></div>
+<input type="password" value="" class="input-block-level" id="resetPass1" placeholder="New password" />
+<input type="password" value="" class="input-block-level" id="resetPass2" placeholder="Confirm new password" />
+<input type="hidden" value="" id="resetUserId" />
+<input type="hidden" value="" id="resetHash" />
+</div>
+<button class="btn btn-large btn-block btn-primary" type="button" onclick="doResetPassword();">Reset password</button>
+</form>
+<p class="apollo-back"> <a href="javascript:void();" onclick="switchPanel('login');"><i class="icon-arrow-left"></i> Back to login</a> </p>
+</div>
+</div>
+</div>
+<div class="apollo apollo-wide" id="subscribePopups">
+<div class="apollo-close">&times;</div>
+<div class="apollo-container clearfix">
+<div class="apollo-user-subscribe apollo-section">
+<div class="row-fluid">
+<div class="span3" id="user-subscribe-store-image">
+</div>
+<div class="span9">
+Are you sure you want to subscribe for email updates about the most recent <strong id="user-subscribe-store-name"></strong> coupons and deals?
+</div>
+</div>
+<div class="clearfix"></div><br />
+<div class="row-fluid">
+<div class="control-group" id="user-subscribe-group">
+<input type="hidden" id="user-subscribe-store-id" value="0" />
+<input type="hidden" id="user-subscribe-user-id" value="0" />
+<button class="btn btn-danger span5 pull-left" style="margin-left:0px;" onclick="cancelPopup('#subscribePopups');">Cancel</button>
+<button class="btn btn-primary span5 pull-right" data-loading-text="<i class='icon-spinner icon-spin icon-large'></i>&nbsp;&nbsp;Subscribe" onclick="doSubscribe(jQuery(this), jQuery('#user-subscribe-user-id').val(), jQuery('#user-subscribe-store-id').val(), '');">Subscribe</button>
+<div class="clearfix"></div><br />
+<span class="help-inline" style="display:none;"></span>
+</div>
+</div>
+</div>
+<div class="apollo-guest-subscribe apollo-section">
+<div class="row-fluid">
+<div class="span3" id="guest-subscribe-store-image">
+</div>
+<div class="span9">
+Please enter your email address to subscribe for email updates about the most recent <strong id="guest-subscribe-store-name"></strong> coupons and deals!
+</div>
+</div>
+<div class="clearfix"></div><br />
+<div class="row-fluid">
+<div class="control-group" id="guest-subscribe-group">
+<div class="input-append span12">
+<input type="hidden" id="guest-subscribe-store-id" value="0" />
+<input class="span9" type="text" placeholder="Email address" id="guest-subscribe-email">
+<button class="btn btn-primary" data-loading-text="<i class='icon-spinner icon-spin icon-large'></i>&nbsp;&nbsp;Subscribe" onclick="doSubscribe(jQuery(this), 0, jQuery('#guest-subscribe-store-id').val(), jQuery('#guest-subscribe-email').val());">Subscribe</button>
+</div>
+<div class="clearfix"></div>
+<span class="help-inline" style="display:none;"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="apollo apollo-wide" id="subscribeConfirmPopup">
+<div class="apollo-close">&times;</div>
+<div class="apollo-container clearfix">
+<div class="apollo-section">
+<div class="row-fluid">
+<div class="span2">
+<i class="icon-envelope" style="font-size: 64px; color: #2C3E50;"></i>
+</div>
+<div class="span10">
+Thank you for subscribing to our Coupon / Deal updates. We will send you an email when we find a new deal or coupon for your selected store(s)
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="apollo apollo-wide" id="openLinkPopup">
+<div class="apollo-close">&times;</div>
+<div class="apollo-container clearfix">
+<div class="apollo-section">
+<div class="row-fluid hidden-phone" style="border-bottom: 1px solid #e2e2e2; padding-bottom: 15px; margin-bottom: 15px;">
+<div class="span2">
+<a href="/" target="_blank" class="openLinkClickable">
+<img src="" id="openLinkThumbnail" />
+</a>
+</div>
+<div class="span10">
+<h4 class="heading" id="openLinkTitle"></h4>
+<p id="openLinkDescription"></p>
+</div>
+</div>
+<div class="row-fluid visible-phone" style="padding-bottom: 20px; margin-bottom: 15px;">
+<div class="span12" style="text-align:center;">
+<a href="/" target="_blank" class="openLinkClickable">
+<img src="" id="openLinkThumbnailPhone" style="max-height: 150px;" />
+</a>
+</div>
+</div>
+<div class="row-fluid visible-phone" style="border-bottom: 1px solid #e2e2e2; padding-bottom: 15px; margin-bottom: 15px;">
+<div class="span12">
+<h4 class="heading" id="openLinkTitlePhone"></h4>
+<p id="openLinkDescriptionPhone"></p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12" id="openLinkAction">
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/templates/trendy/assets/js/clipboard.min.js"></script>
+<script src="/templates/trendy/assets/js/scripts.js?v=58700"></script>
+<script src="/templates/trendy/assets/js/libs/semantic.min.js"></script>
+<script src="/templates/trendy/assets/js/libs/owl.carousel.js"></script>
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+(function() {
+    var u="//www.mybestcouponcodes.com/";
+    _paq.push(["setTrackerUrl", u+"v.php"]);
+    _paq.push(["setSiteId", "61"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0];
+    g.type="text/javascript"; g.async=true; g.defer=true; g.src=u+"v.php"; s.parentNode.insertBefore(g,s);
+})();
+</script>
+</div>
+</div>
+<script>
+    function toggleSidebar()
+    {
+      $('#app .ui.sidebar')
+        .sidebar({context:$('#app')})
+        .sidebar('setting', 'transition', 'overlay')
+        .sidebar('toggle');
+    }
+
+    /*
+    document.addEventListener("DOMContentLoaded", function() {
+      toggleSidebar();
+    });*/
+</script>
+</body>
+</html>
